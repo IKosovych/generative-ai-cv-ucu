@@ -7,3 +7,4 @@ This repository contains homework assignments for a **Generative AI Course** cou
 ## Notebooks
 - Task 1 (RealNVP): [https://colab.research.google.com/drive/1VpT53F0ByM45rU3Vtj-VawdBxHkkVz_6?usp=sharing]
 - Task 2 (VAE): [https://colab.research.google.com/drive/19NtuauzjNNuWJw4hvcKKqvxmjgerw7nP?usp=sharing]
+- Task (GAN): [https://colab.research.google.com/drive/1HkBJ6v4rNldUchiZnCVGwtji-T8sRvt9?usp=sharing]
